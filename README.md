@@ -9,7 +9,7 @@
 
 <br>
 
-<h3 align="center">✨ Languages ✨</h3>
+<h3 align="center">💻 Languages 💻</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
@@ -22,7 +22,7 @@
 
 <br>
 
-<h3 align="center">💻 IDE 💻 </h3>
+<h3 align="center">🛠 IDE 🛠 </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
@@ -34,4 +34,8 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
+  <a href="mailto:chaehyeon.yun0923@gmail.com">
+    <img
+      src="https://img.shields.io/badge/chaehyeon.yun0923@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
 </div>
