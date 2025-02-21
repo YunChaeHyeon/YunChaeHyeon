@@ -21,6 +21,14 @@
 
 <br>
 
+<h3 align="center">❤️ LIKE DEVELOP ❤️ </h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />&nbsp
+</div>
+
+<br>
+
 <h3 align="center">🛠 IDE 🛠 </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" />&nbsp
